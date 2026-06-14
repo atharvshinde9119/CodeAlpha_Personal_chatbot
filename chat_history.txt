@@ -1,0 +1,30 @@
+User: hello
+Bot: Hello! How can I help you?
+
+User: time
+Bot: 12:50:28 PM
+
+User: date
+Bot: 14-06-2026
+
+User: quote
+Bot: Success is the sum of small efforts repeated daily.
+
+User: quote
+Bot: Success is the sum of small efforts repeated daily.
+
+User: calculator
+Bot: Calculator Executed
+
+User: add task
+Bot: Task Added Successfully
+
+User: view task
+Bot: Sorry, I don't understand.
+
+User: view tasks
+Bot: Tasks Displayed
+
+User: bye
+Bot: Goodbye! Have a nice day.
+
